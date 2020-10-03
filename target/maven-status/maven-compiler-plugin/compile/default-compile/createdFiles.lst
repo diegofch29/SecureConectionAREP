@@ -1,1 +1,4 @@
+edu/escuelaing/arep/secureconection/model/User.class
 edu/escuelaing/arep/secureconection/Conection.class
+edu/escuelaing/arep/secureconection/Persistence/AppPersistenceService.class
+edu/escuelaing/arep/secureconection/Persistence/AppPersistence.class
